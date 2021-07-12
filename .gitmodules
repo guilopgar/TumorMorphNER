@@ -1,0 +1,3 @@
+[submodule "resources/cantemist-evaluation-library"]
+	path = resources/cantemist-evaluation-library
+	url = https://github.com/TeMU-BSC/cantemist-evaluation-library.git
